@@ -113,3 +113,5 @@ DONE:
 - 2012-02-01 chain_5_collinear2.py exposes a case where a desperate solution is returned, because we fail to detect this
   as a case for the sep_solver.
 - 2012-01-25 new SEPSolver when we have a line-segment site and its endpoint
+
+teste
